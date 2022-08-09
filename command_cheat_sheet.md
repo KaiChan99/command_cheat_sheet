@@ -1,5 +1,7 @@
 # Command lines
 
+## Basics
+
 . (Single Period)	Current directory
 
 .. (Double Period)	Parent directory
@@ -10,7 +12,7 @@ open [file]		Opens a file
 
 ls			lists inside of folder
 
-
+## Directory
 
 pwd			Show your working directory
 
@@ -32,6 +34,7 @@ rm [file] 		delete file
 
 rm -f [file]		force remove file
 
+## Git
 
 git init [name] 	starts a git
 
