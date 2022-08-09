@@ -2,48 +2,48 @@
 
 ## Basics
 
-. (Single Period)	Current directory
+. (Single Period) &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; 	Current directory
 
-.. (Double Period)	Parent directory
+.. (Double Period) &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; 	Parent directory
 
-sudo [command]		Run command with the security privileges of the super user
+sudo [command] &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; 		Run command with the security privileges of the super user
 
-open [file]		Opens a file
+open [file]	&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; 	Opens a file
 
-ls			lists inside of folder
+ls	&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; 		lists inside of folder
 
 ## Directory
 
-pwd			Show your working directory
+pwd	&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; 		Show your working directory
 
-cd			Home directory
+cd	&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; 		Home directory
 
-cd [folder]		Change directory
+cd [folder]	&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; 	Change directory
 
-mkdir [file name]	create directory folder
+mkdir [file name] &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; 	create directory folder
 
-rm -r [file name]	Delete a folder and its contents
+rm -r [file name] &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; 	Delete a folder and its contents
 
-touch [file name] 	create a new file 
+touch [file name] &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; 	create a new file 
 
-cp 			copies a file to a folder/current folder
+cp &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; 			copies a file to a folder/current folder
 
-mv [file name] 		move/rename
+mv [file name] &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; 		move/rename
 
-rm [file] 		delete file
+rm [file] &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; 		delete file
 
-rm -f [file]		force remove file
+rm -f [file] &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; 		force remove file
 
 ## Git
 
-git init [name] 	starts a git
+git init [name] &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; 	starts a git
 
-git add . 		adds file to current git
+git add . &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; 		adds file to current git
 
-git commit -m 		commits git and allows for comment
+git commit -m &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; 		commits git and allows for comment
 
-git revert [7digits]	reverts to previous commit 
+git revert [7digits] &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; 	reverts to previous commit 
 
-git remote add origin [SSH] 	links github repository with PC
+git remote add origin [SSH] &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; 	links github repository with PC
 
-git push origin [main]		uploads it onto github repository
+git push origin [main]	&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; 	uploads it onto github repository
