@@ -17,3 +17,8 @@ cp 			copies a file to a folder/current folder
 mv [file name] 		move/rename
 rm [file] 		delete file
 rm -f [file]		force remove file
+
+git init [name] 	starts a git
+git add . 		adds file to current git
+git commit -m 		commits git and allows for comment
+git revert [7digits]	reverts to previous commit 
