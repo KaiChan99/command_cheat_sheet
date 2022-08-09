@@ -1,4 +1,6 @@
 
+Command lines
+
 . (Single Period)	Current directory
 .. (Double Period)	Parent directory
 sudo [command]		Run command with the security privileges of the super user
