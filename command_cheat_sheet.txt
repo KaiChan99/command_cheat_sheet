@@ -22,3 +22,6 @@ git init [name] 	starts a git
 git add . 		adds file to current git
 git commit -m 		commits git and allows for comment
 git revert [7digits]	reverts to previous commit 
+
+git remote add origin [SSH] 	links github repository with PC
+git push origin [main]		uploads it onto github repository
